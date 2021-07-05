@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/xqzhang-moji/ananke.git
+	branch = main
